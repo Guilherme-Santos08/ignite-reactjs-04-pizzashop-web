@@ -172,4 +172,3 @@ export function OrderTableRow({ order }: OrderTableRowProps) {
     </TableRow>
   )
 }
-
